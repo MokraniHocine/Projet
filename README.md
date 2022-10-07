@@ -8,3 +8,7 @@ Vous pouvez tester!!!
 
 Voila plus de modification realisées a partir de la branche HTML-Version.
 Cela nous permet de détecter les diffs de cette version et la version Master.
+
+Encore quelques modification sur le fichier sur la branche update-readme
+en verra comment le mettre sur github.
+
